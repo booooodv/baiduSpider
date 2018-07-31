@@ -7,6 +7,13 @@
 ## 解决思路  
 思维导图：  
 [![SGV_N6_KEL_04_V5_FNPFMUED.png](https://s26.postimg.cc/9eep8jyyx/SGV_N6_KEL_04_V5_FNPFMUED.png)](https://postimg.cc/image/q267b1tqd/)  
+## 结果
+输入数据：  
+[![VQG2_NBG9_VT_J_D_Q5_F0.png](https://s26.postimg.cc/pf7almzg9/VQG2_NBG9_VT_J_D_Q5_F0.png)](https://postimg.cc/image/qu8vad0j9/)  
+输出数据：  
+[![HHM_DO_B_AOZ8_RGJFAYD_R.png](https://s26.postimg.cc/q4q2y255l/HHM_DO_B_AOZ8_RGJFAYD_R.png)](https://postimg.cc/image/opoi9c42d/)  
+[![8_3_QXWHCN_EH8_4_D5_SWH_4.png](https://s26.postimg.cc/57tuteua1/8_3_QXWHCN_EH8_4_D5_SWH_4.png)](https://postimg.cc/image/5kl8zlcjp/)  
+
 ## 使用
 因为想要运行即可得到结果，所以打成jar包，/BaiDuPC.jar  
 使用说明：  
